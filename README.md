@@ -1,0 +1,2 @@
+# Snakki
+prosto obichniu chel
